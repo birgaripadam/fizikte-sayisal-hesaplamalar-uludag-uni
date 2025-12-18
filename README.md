@@ -1,1 +1,1 @@
-# uludaguni-c--orneksorular
+## uludag universitesi fizik bölümü c++ dersinde çözülen örnekler
